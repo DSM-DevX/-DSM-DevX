@@ -5,10 +5,10 @@
 
 - `DevX`는 개발일지를 더 체계적이고 깔끔하게 정리할 수 있게 도와주며, 포트폴리오 작성에도 큰 도움을 줄 수 있도록 제작되었습니다.
 
-<h4 style="font-size: 30px;">Frontend Stack</h4>
-<div>
+<h4>Frontend Stack</h4>
+
 - React
 - Vite
 - Styled-components
 - Router
-</div>
+
